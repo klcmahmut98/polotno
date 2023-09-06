@@ -226,7 +226,7 @@ export default observer(({ store }) => {
                 document.querySelector('#load-project').click();
               }}
             >
-              Open
+              Aç
             </Button>
             <input
               type="file"
